@@ -39,3 +39,6 @@ python main.py start               pour lancer le programme
 
 
 Tu dois abords taper    python main.py start  pour activer l'agent, puis seulement aller sur  https://agents-playground.livekit.io/ en choisissant l'option myfirst app
+
+# Note de test
+Petite modification pour tester le push vers GitHub.

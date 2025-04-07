@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\oo\repos\LiveKit-AI-Voice-Assitant-1\ai"
+VIRTUAL_ENV="C:\Users\oo\repos\AI-VOICE-ASSISTANT\ai"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
